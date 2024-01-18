@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(175, 175, 175);
+}
+.heading1{
+    background-color: pink;
+    color:darkred
+}
+.para1{
+    color: grey;
+}
+ul>a>li{
+    color: greenyellow; 
+}
+.heading2{
+    color: yellow;
+    background-color:whitesmoke;
+}
